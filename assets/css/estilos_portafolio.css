@@ -1,0 +1,14 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+.image-portafolio {
+  height: 700px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+@media (max-width: 768px) {
+  .icon-brand{
+    width: 100px;
+  }
+}
