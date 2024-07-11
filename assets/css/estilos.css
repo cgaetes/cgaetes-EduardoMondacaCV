@@ -3,8 +3,6 @@ body {
 }
 
 /* Presentation Section */
-
-
 @media screen and (max-width: 768px) {
   #Presentation-Section {
     background-image: url("../img/trayectoria1.jpg");
@@ -29,9 +27,6 @@ body {
   background-size: cover;
   background-position: center;
 }
-.navbar {
-  /*background-color: darkgreen;*/
-}
 .habilidades ul{
   text-align: left;
 }
@@ -46,16 +41,16 @@ body {
 }
 
 /* Contacto */
-#Contacto {
+#contacto {
   background-color: rgb(101, 185, 101);
 }
-#Contacto form label {
+#contacto form label {
   font-weight: 700;
   color: #373a3c;
 }
 
 @media (max-width: 768px) {
-  #Contacto form label {
+  #contacto form label {
     font-weight: 400;
   }
 
