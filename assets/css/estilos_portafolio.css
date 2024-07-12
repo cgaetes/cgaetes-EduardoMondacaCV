@@ -2,9 +2,9 @@ body {
   font-family: "Raleway", sans-serif;
 }
 .image-portafolio {
-  height: 700px;
+  height: 600px;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
 }
 @media (max-width: 768px) {
